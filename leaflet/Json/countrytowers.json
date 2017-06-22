@@ -1,0 +1,51 @@
+[
+	{
+	    "title": "Burden",
+	    "description":"Burden is a city in Cowley County, Kansas, United States. As of the 2010 census, the city population was 535.Wikipedia, Zip code:67019, Population:536 (2013), Elevation:421 m",
+	    "lat": -77.031952,
+	    "lang": 38.913184,
+	    "radius":50
+	}, {
+	    "title": "Moline",
+	    "description":"Moline is a city located in Rock Island County, Illinois, United States. With a population of 43,977 in 2010, it is the largest city in Rock Island County.Wikipedia, Population:43,116 (2013), Neighborhoods:Willard / WhartonOverlookUptownPark HillWheelock / VelieKarstens / City LineMorgan ParkGreater Tartan OaksVilla ParkFlorecienteOld TowneStewartville, Area:43.15 km²",
+	    "lat": -122.413682,
+	    "lang": 37.775408,
+	    "radius":50
+	}, {
+	    "title": "Montana",
+	    "description":"Montana is a western state defined by its diverse terrain ranging from the Rocky Mountains to the Great Plains. Its wide-open spaces include Glacier National Park, a vast wilderness preserve that passes into Canada. The park’s many snow-capped peaks, lakes and alpine hiking trails are showcased along its famed Going-to-the-Sun Road, stretching 50 miles. Capital:Helena, Abbreviation:MT, Population:1.024 million (2014)",
+	    "lat": -114.5327526,
+	    "lang": 46.5995299,
+	    "radius":50
+	}, {
+	    "title": "New Mexico",
+	    "description":"New Mexico is a southwestern U.S. state whose diverse terrain encompasses the Chihuahuan Desert and the Sangre de Cristo Mountains. Its capital, Santa Fe, founded in 1610, is known for upscale spas and Spanish colonial architecture. It's also home to a vibrant arts scene, as well as the Georgia O’Keeffe Museum, featuring the artist's iconic New Mexican landscape paintings, and the open-air Santa Fe Opera. Capital:Santa Fe, Abbreviation:NM, Population:2.086 million (2014)",
+	    "lat": -108.2697234,
+	    "lang": 34.1503682,
+	    "radius":50
+	}, {
+	    "title": "Wisconsin",
+	    "description":"Wisconsin is a midwestern U.S. state with coastlines on 2 Great Lakes (Michigan and Superior) and an interior of forests and farms. Milwaukee, the largest city, is known for the Milwaukee Public Museum, with its numerous re-created international villages, and the Harley-Davidson Museum, displaying classic motorcycles. Several beer companies are based in Milwaukee, and many offer brewery tours. Capital:Madison, Abbreviation:WI, Population:5.758 million (2014)",
+	    "lat": -92.0697529,
+	    "lang": 44.7682425,
+	    "radius":50
+	}, {
+	    "title": "Mexico City",
+	    "description":"Mexico City is the densely populated, high-altitude capital of Mexico. It's known for its Templo Mayor (a 13th-century Aztec temple), the baroque Catedral Metropolitana de México of the Spanish conquistadors and the Palacio Nacional, which houses historic murals by Diego Rivera. All of these are situated in and around the Plaza de la Constitución, the massive main square also known as the Zócalo. Population:8.851 million (2010), Elevation:2,250 m, Area:1,485 km²",
+	    "lat": -99.2836989,
+	    "lang": 19.3910038,
+	    "radius":50
+	}, {
+	    "title": "Florida",
+	    "description":"Florida is the southeasternmost U.S. state, with the Atlantic on one side and the Gulf of Mexico on the other. It has hundreds of miles of beaches. The city of Miami is known for its Latin-American cultural influences and notable arts scene, as well as its nightlife, especially in upscale South Beach. Orlando is famed for theme parks, including Walt Disney World. Capital:Tallahassee, Population: 19.89 million (2014), Governor:Rick Scott (R)",
+	    "lat": -88.2989214,
+	    "lang": 27.5320716,
+	    "radius":50
+	}, {
+	    "title": "Gonzaga University",
+	    "description":"Gonzaga University, East Boone Avenue, Spokane, WA, United States",
+	    "lat": -117.4046924,
+	    "lang": 47.6681071,
+	    "radius":50
+	}
+]
